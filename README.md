@@ -2,7 +2,7 @@
 
 Stick Cross Bridge adalah endless game yang tujuannya adalah menyeberangi jurang dengan menggunakan jembatan yang dibuat sendiri.
 
-## Cara Main
+### Cara Main
 
 Laporan
 Video Gameplay

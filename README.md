@@ -32,5 +32,3 @@ Permainan sederhana yang ketika dibuka akan muncul jendela awal dengan tombol pl
 - Unity
 - C#
 
-## Screenshot
-
